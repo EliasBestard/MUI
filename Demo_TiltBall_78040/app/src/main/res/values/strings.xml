@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo_TiltBall_78040</string>
+    <string name="setuptitletext">Demo_TiltBall elias39</string>
+    <string name="paramlabelorderofcontroltext">Order of control</string>
+    <string name="paramlabelgaintext">Gain</string>
+    <string name="paramlabelpathwidthtext">Path width</string>
+    <string name="paramlabelpathtypetext">Path type</string>
+    <string name="paramnumberlaps">Number of Laps</string>
+    <string name="paramMode">Mode</string>
+
+    <string name="button01text">OK</string>
+    <string name="button03text">Exit</string>
+    <string name="button04text">Setup</string>
+<!--    <string name="number_laps_status"></string>-->
+<!--    <string name="lap_time_status"></string>-->
+<!--    <string name="in_path_time_status"></string>-->
+<!--    <string name="wall_hints_status"></string>-->
+
+</resources>
